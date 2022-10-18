@@ -1,0 +1,3 @@
+﻿  Application.cpp
+i:\c++\raytracerfromscratch\raytracerfromscratch\application.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  RayTracerFromScratch.vcxproj -> I:\C++\RayTracerFromScratch\Debug\RayTracerFromScratch.exe
